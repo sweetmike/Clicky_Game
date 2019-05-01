@@ -4,3 +4,4 @@ Homework Week 19 - Clicky Game - React
 Submitted incomplete
 
 Todo:
+1. 
