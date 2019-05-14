@@ -1,0 +1,23 @@
+{
+  "name": "clicky_game",
+  "version": "1.0.0",
+  "description": "Homework Week 19 - Clicky Game - React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetmike/Clicky_Game.git"
+  },
+  "author": "Michael Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweetmike/Clicky_Game/issues"
+  },
+  "homepage": "https://github.com/sweetmike/Clicky_Game#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.8"
+  }
+}
