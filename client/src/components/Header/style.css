@@ -1,0 +1,12 @@
+.header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 450px;
+    min-width: 640px;
+    color: rgb(103, 17, 184);
+}
+
+.head-wrap {
+    padding-top: 245px;
+    min-height: 100px;
+}
