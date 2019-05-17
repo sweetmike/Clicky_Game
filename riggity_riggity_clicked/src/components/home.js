@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
-
+import Navbar from './Navbar';
+import Container from './Container';
+import Footer from './Footer';
+import Banner from './Banner';
 
 class Home extends Component {
     state = {
@@ -11,7 +14,10 @@ class Home extends Component {
         const state = this.state;
         return (
             <div>
-                <h1>Hello World</h1>
+                <Navbar />
+                <Banner />
+                <Container />
+                <Footer />
             </div>
         )
     }
