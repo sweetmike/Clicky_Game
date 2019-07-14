@@ -3,7 +3,7 @@ import './Banner.css';
 
 const Banner = () => (
   <div className="banner text-center d-flex align-items-center justify-content-center">
-    <p className="m-0">Banner Placeholder</p>
+    <p className="mb-5 pb-5">But don't click on any more than once!</p>
   </div>
 );
 
